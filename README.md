@@ -1,16 +1,18 @@
-### Hi there 👋
+# Lucas Paixão
 
-<!--
-**paixaols/paixaols** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+*Físico e cientista de dados*
 
-Here are some ideas to get you started:
+Nesta página se encontram alguns projetos de ciência de dados, análise de dados, webapps e projetos de ensino.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Ciência de dados:
+
+
+## Análise de dados:
+
+# [House sales](https://github.com/paixaols/house-sales)
+
+Análise de dados do mercado imobiliário da cidade de Seattle entre 2014 e 2015. Ao selecionar as casas certas para compra e o melhor momento de vender é possível realizar a compra e venda com pelo menos 30% de lucro.
+
+## Webapps:
+
+## Ensino:
