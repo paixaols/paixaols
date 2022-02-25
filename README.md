@@ -14,6 +14,10 @@ Rossmann é uma rede de farmácias com mais de 3 mil lojas pela europa. Com base
 
 Um modelo de classificação para detectar a presença de doença cardiovascular, baseando-se em exames clínicos de mais de 70 mil pacientes. O modelo apresentou uma acurácia de 72%.
 
+### [Insurance cross-sell](https://github.com/paixaols/insurance-cross-sell)
+
+Uma seguradora hipotética está lançando um novo produto e deseja fazer venda cruzada na sua base de clientes. Um modelo de *learn to rank* foi desenvolvido para ordenar os clientes segundo sua propensão a adquirir o novo seguro ofertado pela seguradora.
+
 ## Análise de dados:
 
 ### [House sales](https://github.com/paixaols/house-sales)
