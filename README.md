@@ -18,7 +18,7 @@ Um modelo de classificação para detectar a presença de doença cardiovascular
 
 Uma seguradora hipotética está lançando um novo produto e deseja fazer venda cruzada na sua base de clientes. Um modelo de *learn to rank* foi desenvolvido para ordenar os clientes segundo sua propensão a adquirir o novo seguro ofertado pela seguradora.
 
-## [Loyalty program](https://github.com/paixaols/loyalty-program)
+### [Loyalty program](https://github.com/paixaols/loyalty-program)
 
 Um e-commerce deseja criar um programa de fidelidade para recompensar seus clientes valiosos. O grupo de clientes escolhido para participar do programa foi identificado por um modelo de clusterização. Esse grupo de clientes é composto por 24% dos clientes da empresa e geram 42% da receita.
 
