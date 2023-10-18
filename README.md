@@ -1,45 +1,55 @@
-# Lucas Paixão
+# 👋 Olá, sou Lucas Paixão
 
-*Físico e cientista de dados*
+Sou Físico e Cientista de Dados. Minhas informações profissionais e de contato você pode encontrar nos links abaixo:
 
-Nesta página se encontram alguns projetos de ciência de dados, análise de dados, webapps e projetos de ensino.
+<div>
+    <a href="https://paixaols.github.io/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/P%C3%A1gina_pessoal-red?style=for-the-badge"></a>
+    <a href="https://www.linkedin.com/in/lucassopaixao/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://orcid.org/0000-0001-5419-4953" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/orcid-A6CE39?style=for-the-badge&logo=orcid&logoColor=white"></a>
+</div>
 
-## Ciência de dados:
+## Linguagens de programação
 
-### [Rossmann store sales](https://github.com/paixaols/rossmann-store-sales)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=paixaols&layout=compact&langs_count=10)
 
-Rossmann é uma rede de farmácias com mais de 3 mil lojas pela europa. Com base nos dados de vendas de mais de mil dessas lojas, construi um modelo de previsão diária de vendas com um erro percentual médio (MAPE) de 9%, prevendo uma receita de $ 282,4 milhões em seis semanas.
+## Algumas ferramentas que utilizo
 
-### [Cardiovascular disease](https://github.com/paixaols/cardiovascular-disease)
+![Static Badge](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![Static Badge](https://img.shields.io/badge/jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Static Badge](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Numpy-777BB4?style=for-the-badge&logo=numpy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white)
+![Static Badge](https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white)
+![Static Badge](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Plotly-239120?style=for-the-badge&logo=plotly&logoColor=white)
+![Static Badge](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)
+![Static Badge](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Static Badge](https://img.shields.io/badge/MongoDB-1a674a?style=for-the-badge&logo=mongodb&logoColor=white)
 
-Um modelo de classificação para detectar a presença de doença cardiovascular, baseando-se em exames clínicos de mais de 70 mil pacientes. O modelo apresentou uma acurácia de 72%.
+## Projetos de portfólio
 
-### [Insurance cross-sell](https://github.com/paixaols/insurance-cross-sell)
+### Aprendizado de máquina
 
-Uma seguradora hipotética está lançando um novo produto e deseja fazer venda cruzada na sua base de clientes. Um modelo de *learn to rank* foi desenvolvido para ordenar os clientes segundo sua propensão a adquirir o novo seguro ofertado pela seguradora.
+- [Implementação própria dos principais modelos de ML](https://github.com/paixaols/statistical-learning)
 
-### [Loyalty program](https://github.com/paixaols/loyalty-program)
+### Ciência de dados no mundo real
 
-Um e-commerce deseja criar um programa de fidelidade para recompensar seus clientes valiosos. O grupo de clientes escolhido para participar do programa foi identificado por um modelo de clusterização. Esse grupo de clientes é composto por 24% dos clientes da empresa e geram 42% da receita.
+- [Previsão de vendas](https://github.com/paixaols/rossmann-store-sales)
+- [Detecção de doenças](https://github.com/paixaols/cardiovascular-disease)
+- [Venda cruzada](https://github.com/paixaols/insurance-cross-sell)
+- [Segmentação de clientes](https://github.com/paixaols/loyalty-program)
+- [Teste de hipóteses](https://github.com/paixaols/ab-test)
 
-## Análise de dados:
+### Análise de dados
 
-### [House sales](https://github.com/paixaols/house-sales)
+- [Análise de vendas no setor imobiliário](https://github.com/paixaols/house-sales)
 
-Análise de dados do mercado imobiliário da cidade de Seattle entre 2014 e 2015. Ao selecionar as casas certas para compra e o melhor momento de vender, é possível realizar a compra e venda com pelo menos 30% de lucro.
+### Ensino
 
-## Webapps:
+- [Tempo de reação](https://github.com/paixaols/tempo-de-reacao)
 
-### [Cronoanálise](https://github.com/paixaols/cronoanalise)
+### Outros projetos
 
-Um aplicativo web para cronoanálise, uma ferramenta para gestão de tempo em uma linha de produção.
-
-## Ensino:
-
-### [Tempo de reação](https://github.com/paixaols/tempo-de-reacao)
-
-Simulação didática para estudar o tempo de reação humano ao observar um objeto em queda livre.
-
-### [Minicurso Python](https://github.com/paixaols/minicurso)
-
-Material utilizado no minicurso ministrado no Laboratório de Materiais e Baixas Temperaturas (LMBT) do Instituto de Física da UNICAMP, em julho/agosto de 2020.
+- [Webapp de cronoanálise](https://github.com/paixaols/cronoanalise)
