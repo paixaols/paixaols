@@ -45,6 +45,7 @@ Sou Físico e Cientista de Dados. Minhas informações profissionais e de contat
 ### Análise de dados
 
 - [Análise de vendas no setor imobiliário](https://github.com/paixaols/house-sales)
+- [Análise dos resultados da loteria](https://github.com/paixaols/lottery-analysis)
 
 ### Ensino
 
